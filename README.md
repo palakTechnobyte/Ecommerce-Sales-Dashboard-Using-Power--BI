@@ -1,4 +1,4 @@
-# E-commerce Sales Dashboards
+# E-commerce Sales Dashboard
 
 ## Overview
 The **E-commerce Sales Dashboards** project provides comprehensive insights into e-commerce sales performance through interactive and visually appealing dashboards developed using **Power BI**. These dashboards help stakeholders analyze and monitor key business metrics to drive data-driven decision-making.
